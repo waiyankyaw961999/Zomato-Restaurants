@@ -2,7 +2,7 @@
 Practicing data visualizations and data analytics on Bangalore Restaurants Dataset
 
 ## Data
-I found this dataset on Kaggle. You can download the same from here : https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
+I found this dataset on Kaggle. You can download from the link: https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 ### Features
 
 * url : zomato url for the restaurants 
